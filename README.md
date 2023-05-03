@@ -1,1 +1,3 @@
-# Just-Some-Projects
+# Just-Some-Projects :-
+# Hi, its Arthur again...
+# These are some projects I made in my free time.
